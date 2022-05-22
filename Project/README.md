@@ -4,3 +4,4 @@ I have faced the problem of parameter tuning , i have set it initially around 1-
 I have got diiferent accuracy using different parameters. with change in number of neighbours accuracy changes along with change in cv value. when I set neighbours value to 15 my accuracy was 0.65432 and when i changed it to 4 neighbours my accuracy decline to 0.6185.  the value for cv was set at 5 at both the occasion.
 
 
+![ZScore](https://user-images.githubusercontent.com/99484580/169710266-cf189ee9-ae1b-4115-91e3-d3bd0a1d836d.jpeg)
